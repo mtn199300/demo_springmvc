@@ -7,10 +7,11 @@
     <groupId>demo_springmvc</groupId>
     <artifactId>demo_springmvc</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>war</packaging>
     <build>
         <finalName>demo_springmvc</finalName>
     </build>
+
 
     <dependencies>
         <dependency>
